@@ -16,7 +16,7 @@ except Exception as e:
 
 # Конфигурация базы данных
 db_config = {
-    'host': '127.0.0.1',
+    'host': '192.168.0.3',
     'user': 'root',
     'database': 'konil',
     'password': '',
