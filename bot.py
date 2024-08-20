@@ -204,7 +204,7 @@ def callback_query(call):
         bot.answer_callback_query(call.id, text=f"Номер телефона скопирован: {phone_number}", show_alert=True)
 
     elif call.data == "certificates":
-        certificate = "https://i.postimg.cc/25zW8qTC/certificate.jpg"
+        certificate = "https://i.postimg.cc/Nf9Jh7Dk/certificate.jpg"
         bot.send_photo(call.from_user.id, photo=certificate, caption="Сертификат о подтверждение оригинальности")
 
     elif call.data == "delivery":
