@@ -16,10 +16,10 @@ except Exception as e:
 
 # Конфигурация базы данных
 db_config = {
-    'host': '127.0.0.1',
-    'user': 'root',
-    'database': 'konil',
-    'password': '',
+    'host': '195.210.46.36',
+    'user': 'konilkz_bd',
+    'database': 'konilkz_bd',
+    'password': 'Q92x@0f8h',
 }
 
 try:
