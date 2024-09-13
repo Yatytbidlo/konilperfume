@@ -16,10 +16,10 @@ except Exception as e:
 
 # Конфигурация базы данных
 db_config = {
-    'host': '195.210.46.36',
-    'user': 'konilkz_bd',
+    'host': 'srv-plesk18.ps.kz',
     'database': 'konilkz_bd',
-    'password': 'Q92x@0f8h',
+    'user': 'konilkz_bd',
+    'password': '94v2k7?eM',
 }
 
 try:
