@@ -20,6 +20,7 @@ db_config = {
     'database': 'konilkz_bd',
     'user': 'konilkz_bd',
     'password': '94v2k7?eM',
+    'connection_timeout': 10 
 }
 
 try:
